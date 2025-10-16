@@ -1,5 +1,5 @@
 const tombolSapa = document.getElementById('sapaButton');
 
 tombolSapa.addEventListener('click', function () {
-  alert('Tengateh Mon Atemmoh Engkok lee!');
+  alert('Perkenalkan Calon Ahli Surga dan Calon Orang Kaya!');
 });
