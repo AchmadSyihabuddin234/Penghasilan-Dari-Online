@@ -1,5 +1,5 @@
 body {
-  background-color: #FFFFE0; /* Warna Kunig Cerah */
+  background-color: #FFFFE0; /* Warna Kuning Cerah */
   font-family: Arial, sans-serif; /* Jenis huruf yang bersih dan mudah dibaca */
   color: #191907; /* Warna teks utama */
 }
@@ -10,8 +10,8 @@ body {
   padding: 20px;
   background-color: white;
   border-radius: 15px; /* membuat garis melengkung */
-  box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* efek bayangan */
-  text-align: center; /* menengahkan semua teks didalam */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* efek bayangan */
+  text-align: center; /* menengahkan semua teks di dalam */
 }
 
 .kartu-profil img {
@@ -19,4 +19,3 @@ body {
   border-radius: 50%; /* membuat garis melengkung */
 }
 
-  
